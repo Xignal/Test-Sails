@@ -22,6 +22,9 @@
     "grunt-contrib-cssmin": "~0.9.0",
     "grunt-contrib-less": "0.11.1",
     "grunt-contrib-coffee": "~0.10.1"
+    "sails-mongo": "^0.10.5",
+    "node-bitlyapi": "0.4.0",
+    "waterline": "0.10.18"
   },
   "scripts": {
     "start": "node app.js",
